@@ -1,0 +1,1 @@
+<img src="<?php echo base_url('asset/images/penggunaan.jpg')?>" width='100%' height='100%' style="margin:10px 5px 10px 5px">
